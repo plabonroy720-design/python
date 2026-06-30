@@ -1,1 +1,1 @@
-# python fuck you 
+# python  
