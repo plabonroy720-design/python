@@ -1,0 +1,12 @@
+import numpy as np
+a=np.arange(24).reshape(2,3,4)
+print(a)
+print("")
+print('axis = 0')
+print(np.sum(a,axis=0))
+print('')
+print("axis = 1")
+print(np.sum(a,axis=1))
+print("")
+print('axis = 2')
+print(np.sum(a,axis=2))
